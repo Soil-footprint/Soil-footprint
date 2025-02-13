@@ -1,0 +1,11 @@
+name: Soil-footprint
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - numpy=1.21.6
+  - pandas=1.4.2
+  - matplotlib=3.4.2
+  - python=3.8.13
+
